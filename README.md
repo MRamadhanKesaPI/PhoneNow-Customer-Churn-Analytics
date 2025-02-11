@@ -48,7 +48,7 @@ assessing the impact of technical and administrative support on churn.
 To make the analysis and insights easy to explore, the following resources are available:
 
 - The data preparation process was conducted in Microsoft Excel and PostgreSQL.
-- A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix) or [PhoneNow Customer Churn.pdf](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pdf)
+- A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf)
 
 
 ## Data Structure
