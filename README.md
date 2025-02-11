@@ -9,6 +9,8 @@
 
 
 ## Project Background
+Welcome to my personal project repository! 
+
 PhoneNow is a leading telecommunications company that provides mobile and internet services to a diverse customer base. With a strong market presence, the company has been focused on delivering high-quality services to retain customers and reduce churn. However, despite its efforts, PhoneNow has been experiencing a high churn rate, leading to customer losses and revenue impacts.
 
 To address this challenge, PhoneNow has partnered with PwC Switzerland to uncover insights into customer churn patterns and identify strategies to improve retention. This analysis is based on customer churn data from the last month, providing the most up-to-date insights into recent trends and behaviors.
@@ -49,20 +51,19 @@ To make the analysis and insights easy to explore, the following resources are a
 
 
 ## Data Structure
-The Social Buzz database used in this project consists of three tables: Reaction, Content, and Reaction Types, with a total of 24,573 rows of data.
+The PhoneNow database used in this project consists of three tables: Customer Churn, Service Type, and Bundle, with a total of 41,244 rows of data.
 
 ![Relationships PWC](https://github.com/user-attachments/assets/5aa5554e-ae2a-4afe-a194-c34d973793ba)
 
-These datasets were merged using Power Query to create a final dataset, which can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx)
 
 
 ## Insights
 
 #### 1. Churn Rate is High at 26.54%:
-  Over the last month, **one in four customers** have left PhoneNow, highlighting a significant churn issue. This rate suggests that **customer retention strategies need to be strengthened** to reduce further losses.
+-  Over the last month, **one in four customers** have left PhoneNow, highlighting a significant churn issue. This rate suggests that **customer retention strategies need to be strengthened** to reduce further losses.
     
 #### 2. Month-to-Month Customers Are the Most Likely to Leave:
-   Customers on **month-to-month** contracts accounted for **88.55%** of churn, compared to just 8.88% for one-year contracts and 2.57% for two-year contracts. This shows that **short-term customers are at the highest risk of leaving**.
+-  Customers on **month-to-month** contracts accounted for **88.55%** of churn, compared to just 8.88% for one-year contracts and 2.57% for two-year contracts. This shows that **short-term customers are at the highest risk of leaving**.
 
 #### 3. New Customers Churn the Most:
 -  **55.48% of churned customers** left within their first 12 months.
@@ -70,13 +71,14 @@ These datasets were merged using Power Query to create a final dataset, which ca
 This indicates that early customer experience plays a crucial role in retention, and efforts should **focus on engaging and supporting new users**.
 
 #### 4. Fiber Optic and Multi-Line Customers Have Higher Churn:
-   Customers using **fiber optic internet** and **multiple lines** are more likely to churn. This suggests that these services might have quality or pricing concerns that need further investigation.
+-  Customers using **fiber optic internet** and **multiple lines** are more likely to churn. This suggests that these services might have quality or pricing concerns that need further investigation.
 
 #### 5. Technical Issues Contribute to Churn, but Are Not the Main Factor:
-  **84.14%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
+-  **84.14%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
 
 ---
-Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: 
+Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix) or [PhoneNow Customer Churn.pdf](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pdf)
+
 ![PhoneNow Churn 1](https://github.com/user-attachments/assets/7e5eb567-839e-4403-8e28-ea3d203c6638)
 
 ![PhoneNow Churn 2](https://github.com/user-attachments/assets/35a09b2e-bbcc-489e-87de-f60126f4787e)
@@ -96,4 +98,4 @@ Analyze customer complaints and gather feedback to understand why these services
 #### 4. Enhance Technical Support Response Times:
 Technical issues might be the primary churn factor, faster and more efficient tech support could prevent some customers from leaving.
 
-
+### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
