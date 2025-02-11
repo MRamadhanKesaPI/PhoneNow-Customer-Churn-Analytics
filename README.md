@@ -48,7 +48,7 @@ assessing the impact of technical and administrative support on churn.
 To make the analysis and insights easy to explore, the following resources are available:
 
 - The data preparation process was conducted in Microsoft Excel and PostgreSQL.
-- A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf)
+- A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 
 ## Data Structure
@@ -78,7 +78,7 @@ This indicates that early customer experience plays a crucial role in retention,
 -  **84.14%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
 
 ---
-Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
+Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 ![PhoneNow Churn 1](https://github.com/user-attachments/assets/7e5eb567-839e-4403-8e28-ea3d203c6638)
 
