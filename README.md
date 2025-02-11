@@ -39,7 +39,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The data preparation process in Microsoft Excel can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Social-Buzz...Social-Media-Content-Analytics/).
 - The final dataset can be downloaded here: [Social Buzz Final Dataset.xlsx](https://github.com/user-attachments/files/18333572/Social.Buzz.Final.Dataset.xlsx).
-- An interactive Tableau dashboard can be seen [here](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+- A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pbix](https://public.tableau.com/views/SocialBuzzContentAnalysis_17358080211010/SocialBuzzContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 ## Data Structure
