@@ -1,4 +1,6 @@
-# PhoneNow: Customer Churn Analytics - PWC Switzerland Virtual Case Experience
+# PhoneNow: Customer Churn Analytics - PwC Switzerland Virtual Case Experience
+
+**Welcome to my personal project repository!** 
 
 ## Table of Contents
 - [**Project Background**](#project-background)
@@ -9,7 +11,6 @@
 
 
 ## Project Background
-Welcome to my personal project repository! 
 
 PhoneNow is a leading telecommunications company that provides mobile and internet services to a diverse customer base. With a strong market presence, the company has been focused on delivering high-quality services to retain customers and reduce churn. However, despite its efforts, PhoneNow has been experiencing a high churn rate, leading to customer losses and revenue impacts.
 
