@@ -82,7 +82,7 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 
 ![PhoneNow Churn 1](https://github.com/user-attachments/assets/7e5eb567-839e-4403-8e28-ea3d203c6638)
 
-![PhoneNow Churn 2](https://github.com/user-attachments/assets/35a09b2e-bbcc-489e-87de-f60126f4787e)
+![PhoneNow Churn 2](https://github.com/user-attachments/assets/129adfef-0540-4842-a6f3-c18c5e9d76ca)
 
 
 ## Recommendations
