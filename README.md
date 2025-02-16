@@ -47,7 +47,10 @@ assessing the impact of technical and administrative support on churn.
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The data preparation process was conducted in Microsoft Excel and PostgreSQL.
+- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process_for_PhoneNow...Customer-Churn/).
+
+- The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Measures__for__PhoneNow...Customer-Churn/).
+  
 - A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 
@@ -56,7 +59,7 @@ The PhoneNow database used in this project consists of three tables: Customer Ch
 
 ![Relationships PWC](https://github.com/user-attachments/assets/5aa5554e-ae2a-4afe-a194-c34d973793ba)
 
-
+These final datasets were created through the process of creating view ini PostgreSQL, which can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process_for_PhoneNow...Customer-Churn/).
 
 ## Insights
 
@@ -71,10 +74,10 @@ The PhoneNow database used in this project consists of three tables: Customer Ch
 -  Customers who **stayed longer (24+ months)** churned at much lower rates.
 This indicates that early customer experience plays a crucial role in retention, and efforts should **focus on engaging and supporting new users**.
 
-#### 4. Fiber Optic and Multi-Line Customers Have Higher Churn:
--  Customers using **fiber optic internet** and **multiple lines** are more likely to churn. This suggests that these services might have quality or pricing concerns that need further investigation.
+#### 4. Phone Service and Fiber Optic Customers Have Higher Churn:
+-  Customers using **phone service** and **fiber optic internet** are more likely to churn. This suggests that these services might have quality or pricing concerns that need further investigation.
 
-#### 5. Technical Issues Contribute to Churn, but Are Not the Main Factor:
+#### 5. Technical Issues Contribute to Churn Rather Than Administrative Issues:
 -  **84.14%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
 
 ---
@@ -88,15 +91,15 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 ## Recommendations
 
 #### 1. Improve Retention for Month-to-Month Customers:
-Offer discounts, loyalty rewards, or upgrade incentives to encourage customers to switch to longer-term contracts. This could help reduce the high churn rate in this segment.
+- Offer discounts, loyalty rewards, or upgrade incentives to encourage customers to switch to longer-term contracts. This could help reduce the high churn rate in this segment.
   
 #### 2. Strengthen Early Customer Engagement: 
-Since over half of churned customers left in the last month were in their first year, focus on onboarding improvements, proactive customer check-ins, and personalized offers within the first 12 months.
+- Since over half of churned customers left in the last month were in their first year, focus on onboarding improvements, proactive customer check-ins, and personalized offers within the first 12 months.
 
-#### 3. Investigate Fiber Optic and Multi-Line Service Issues:
-Analyze customer complaints and gather feedback to understand why these services have higher churn. Consider improving service quality or offering better pricing plans.
+#### 3. Investigate Phone Service and Fiber Optic Service Issues:
+- Analyze customer complaints and gather feedback to understand why these services have higher churn. Consider improving service quality or offering better pricing plans.
 
 #### 4. Enhance Technical Support Response Times:
-Technical issues might be the primary churn factor, faster and more efficient tech support could prevent some customers from leaving.
+- Technical issues might be the primary churn factor, faster and more efficient tech support could prevent some customers from leaving.
 
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
