@@ -49,7 +49,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process_for_PhoneNow...Customer-Churn/).
 
-- The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Measures__for__PhoneNow...Customer-Churn/).
+- The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes__for__PhoneNow...Customer-Churn/).
   
 - A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
