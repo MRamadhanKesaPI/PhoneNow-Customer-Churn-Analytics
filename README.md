@@ -68,7 +68,7 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 
 ![PhoneNow Churn 2](https://github.com/user-attachments/assets/129adfef-0540-4842-a6f3-c18c5e9d76ca)
 
-
+---
 ## Recommendations
 
 #### 1. Improve Retention for Month-to-Month Customers:
