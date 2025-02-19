@@ -25,25 +25,6 @@ The analytics team will focus on helping PhoneNow gain deeper insights into cust
 -  Deliver recommendations to help PhoneNow enhance its retention strategies and improve long-term customer loyalty.
 
 
-### Insight and Recommendation Focus:
-The project focuses on providing actionable insights in these key areas:
-
-1. **Churn Rate Analysis**,
-identifying the overall churn rate and key patterns in customer losses.
-
-2. **Contract Type Impact**,
-evaluating how different contract types influence churn behavior.
-
-3. **Tenure and Churn Relationship**,
-analyzing customer lifecycle trends to determine when churn is most likely to occur..
-
-4. **Service Usage Patterns**,
-identifying services with high churn rates to pinpoint potential issues.
-
-5. **Support Ticket Influence**,
-assessing the impact of technical and administrative support on churn.
-
-
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
@@ -102,4 +83,5 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 #### 4. Enhance Technical Support Response Times:
 - Technical issues might be the primary churn factor, faster and more efficient tech support could prevent some customers from leaving.
 
+---
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
