@@ -17,8 +17,8 @@ PhoneNow is a leading telecommunications company that provides mobile and intern
 To address this challenge, PhoneNow has partnered with PwC Switzerland to uncover insights into customer churn patterns and identify strategies to improve retention. This analysis is based on customer churn data from the last month, providing the most up-to-date insights into recent trends and behaviors.
 
 
-### Purpose of the Analytics Team:
-The analytics team will focus on helping PhoneNow gain deeper insights into customer churn. The goals are to:
+### Purpose of the Analysis:
+The goal of this analysis is focus on helping PhoneNow gain deeper insights into customer churn. The goals are to:
 
 -  Identify the main factors driving churn and analyze their impact.
 -  Understand customer trends to highlight opportunities for reducing churn.
