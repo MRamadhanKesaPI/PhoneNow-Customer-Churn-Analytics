@@ -59,15 +59,14 @@ This indicates that early customer experience plays a crucial role in retention,
 -  Customers using **phone service** and **fiber optic internet** are more likely to churn. This suggests that these services might have quality or pricing concerns that need further investigation.
 
 #### 5. Technical Issues Contribute to Churn Rather Than Administrative Issues:
--  **84.14%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
+-  **69.38%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
 
 ---
 Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/18759794/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
-![PhoneNow Churn 1](https://github.com/user-attachments/assets/7e5eb567-839e-4403-8e28-ea3d203c6638)
 
-![PhoneNow Churn 2](https://github.com/user-attachments/assets/129adfef-0540-4842-a6f3-c18c5e9d76ca)
-
+![Image](https://github.com/user-attachments/assets/3896a84c-4751-4981-b34d-11a75aa839c8)
+![Image](https://github.com/user-attachments/assets/f5aa70c1-b3b1-4d08-ac14-0e3983c74a02)
 ---
 ## Recommendations
 
