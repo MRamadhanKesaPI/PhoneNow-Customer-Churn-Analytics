@@ -14,7 +14,7 @@
 
 PhoneNow is a leading telecommunications company that provides mobile and internet services to a diverse customer base. With a strong market presence, the company has been focused on delivering high-quality services to retain customers and reduce churn. However, despite its efforts, PhoneNow has been experiencing a high churn rate, leading to customer losses and revenue impacts.
 
-To address this challenge, PhoneNow has partnered with PwC Switzerland to uncover insights into customer churn patterns and identify strategies to improve retention. This analysis is based on customer churn data from the last month, providing the most up-to-date insights into recent trends and behaviors.
+To address this challenge, PhoneNow has partnered with PwC Switzerland to uncover insights into customer churn patterns and identify strategies to improve retention. This analysis is based on customer churn data up to the last month, providing the most up-to-date insights into recent trends and behaviors.
 
 
 ### Purpose of the Analysis:
