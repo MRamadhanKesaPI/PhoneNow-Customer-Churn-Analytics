@@ -60,8 +60,8 @@ These insights serve as the foundation for the logistic regression model, which 
 -  Customers who **stayed longer (24+ months)** churned at much lower rates.
 This indicates that early customer experience plays a crucial role in retention, and efforts should **focus on engaging and supporting new users**.
 
-#### 4. Phone Service and Fiber Optic Customers Have Higher Churn:
--  Customers using **phone service** and **fiber optic internet** are more likely to churn. This suggests that these services might have quality or pricing concerns that need further investigation.
+#### 4. Some of Services Have Higher Churn:
+-  Customers subscribed on **fiber optic internet**, **streaming tv**, **streaming movies**, **multiple lines**, and **phone service** and are more likely to churn. this suggests potential concerns with quality or pricing that require further investigation..
 
 #### 5. Technical Issues Contribute to Churn Rather Than Administrative Issues:
 -  **69.38%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
@@ -82,15 +82,21 @@ This model predicts customer churn using logistic regression, focusing on contra
 
 #### 1. Strong Churn Detection (AUC-ROC: 0.92):
 -  With an **AUC-ROC score of 0.92**, the model effectively distinguishes between churners and non-churners, ensuring reliable predictions.
-    
+
+![ROC Curve](https://github.com/user-attachments/assets/c0a75c41-b009-45db-a724-aa3c2c23c981)
+
 #### 2. Model Predicts Churn with 80% Accuracy:
 -  The model correctly classifies customers **80% of the time**, making it a solid predictive tool.
 
 #### 3. High Recall for Churners (91%):
 -  The model correctly identifies **91% of actual churners**, ensuring at-risk customers are flagged, though it may misclassify some loyal customers.
 
+![Classification Report](https://github.com/user-attachments/assets/28f3defb-c354-464c-8cfb-e1251c63f7fb)
+
 #### 4. 23.02% of Customers Are at Risk:
--  The model assigns churn risk scores to each customer, identifying **1,191 out of 5,174 active customers as high-risk**, highlighting a **23.02% churn probability**.
+-  The model assigns churn risk scores to each customer, identifying **1,191 out of 5,174 active customers as high-risk**. Customers classified as high-risk have a **churn probability score above 50%**, reinforcing a **23.02% overall churn risk**.
+
+![Churn Risk Above 50](https://github.com/user-attachments/assets/dc9ab2af-9a00-4128-895c-39af5dd6ed7f)
 
 
 ## Recommendations
