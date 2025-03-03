@@ -61,7 +61,7 @@ These insights serve as the foundation for the logistic regression model, which 
 This indicates that early customer experience plays a crucial role in retention, and efforts should **focus on engaging and supporting new users**.
 
 #### 4. Some of Services Have Higher Churn:
--  Customers subscribed on **fiber optic internet**, **streaming tv**, **streaming movies**, **multiple lines**, and **phone service** and are more likely to churn. this suggests potential concerns with quality or pricing that require further investigation..
+-  Customers subscribed on **fiber optic internet**, **streaming tv**, **streaming movies**, **multiple lines**, and **phone service** are more likely to churn. This suggests potential concerns with quality or pricing that require further investigation.
 
 #### 5. Technical Issues Contribute to Churn Rather Than Administrative Issues:
 -  **69.38%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
@@ -81,7 +81,7 @@ This model predicts customer churn using logistic regression, focusing on contra
 ### Key findings:
 
 #### 1. Strong Churn Detection (AUC-ROC: 0.92):
--  With an **AUC-ROC score of 0.92**, the model effectively distinguishes between churners and non-churners, ensuring reliable predictions.
+-  With an **AUC-ROC score of 0.92**, the model demonstrates strong predictive performance. This high score indicates its ability to accurately differentiate between churners and non-churners.
 
 ![ROC Curve](https://github.com/user-attachments/assets/c0a75c41-b009-45db-a724-aa3c2c23c981)
 
@@ -89,7 +89,7 @@ This model predicts customer churn using logistic regression, focusing on contra
 -  The model correctly classifies customers **80% of the time**, making it a solid predictive tool.
 
 #### 3. High Recall for Churners (91%):
--  The model correctly identifies **91% of actual churners**, ensuring at-risk customers are flagged, though it may misclassify some loyal customers.
+-  The model correctly identifies **91% of actual churners**, effectively flagging at-risk customers while balancing overall predictive accuracy.
 
 ![Classification Report](https://github.com/user-attachments/assets/28f3defb-c354-464c-8cfb-e1251c63f7fb)
 
@@ -112,8 +112,8 @@ By leveraging churn risk scores, we can take targeted actions to engage high-ris
 - Implement an automated system to alert the customer success team when a high-risk customer shows signs of leaving.
 
 #### 3. Improve Plans and Pricing for High-Churn Services (Service-Based Approach):
-- Offer better pricing or service bundles for customers with high churn risk in fiber optic, streaming TV, streaming movies, multiple lines, and phone service.
-- Investigate service-related complaints and create retention campaigns, such as loyalty perks or premium support.
+- Offer better pricing or service bundles for customers with high churn risk in fiber optic, streaming tv, streaming movies, multiple lines, and phone service.
+- Investigate service-related complaints and create retention campaigns, such as loyalty benefits or premium support.
 
 #### 4. Proactive Tech Support for High-Risk Customers (Technical Issue Approach):
 - Prioritize high-risk customers for faster tech support to prevent frustration.
