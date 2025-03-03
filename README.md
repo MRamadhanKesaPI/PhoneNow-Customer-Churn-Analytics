@@ -29,7 +29,7 @@ The goal of this analysis is focus on helping PhoneNow gain deeper insights into
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_PhoneNow...Customer-Churn/).
+- The SQL queries with PostgreSQL for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_PhoneNow...Customer-Churn/).
 
 - The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes__for__PhoneNow...Customer-Churn/).
   
