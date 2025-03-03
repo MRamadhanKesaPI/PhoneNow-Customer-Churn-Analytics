@@ -46,6 +46,9 @@ These final datasets were created through the process of creating view ini Postg
 
 ## Insights (Power BI)
 
+These insights serve as the foundation for the logistic regression model, which predicts future churn risks and identifies high-risk customers for proactive retention strategies.
+
+### Key findings:
 #### 1. Churn Rate is High at 26.54%:
 -  Over the last month, **one in four customers** have left PhoneNow, highlighting a significant churn issue. This rate suggests that **customer retention strategies need to be strengthened** to reduce further losses.
     
@@ -73,6 +76,10 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 
 ## Predictive Insights (Logistic Regression - Python)
 
+This model predicts customer churn using logistic regression, focusing on contract type, tenure, monthly charges, technical issues, and selected service subscriptions with the highest churn rates. The model calculates churn risk scores for every customers, helping identify high-risk customers and support better retention strategies. The full model implementation can be found [here](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn%20Prediction.ipynb).
+
+### Key findings:
+
 #### 1. Strong Churn Detection (AUC-ROC: 0.92):
 -  With an **AUC-ROC score of 0.92**, the model effectively distinguishes between churners and non-churners, ensuring reliable predictions.
     
@@ -83,7 +90,7 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 -  The model correctly identifies **91% of actual churners**, ensuring at-risk customers are flagged, though it may misclassify some loyal customers.
 
 #### 4. 23.02% of Customers Are at Risk:
--  Out of **5,174 active customers**, **1,191 are flagged as potential churners**, reinforcing the high churn risk.
+-  The model assigns churn risk scores to each customer, identifying **1,191 out of 5,174 active customers as high-risk**, highlighting a **23.02% churn probability**.
 
 
 ## Recommendations
