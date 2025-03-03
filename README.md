@@ -38,7 +38,7 @@ To make the analysis and insights easy to explore, the following resources are a
 - The Python notebook for the Logistic Regression model can be found [here](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn%20Prediction.ipynb).
 
 ## Data Structure
-The PhoneNow database used in this project consists of three tables: Customer Churn, Service Type, and Bundle, with a total of 41,244 rows of data.
+The PhoneNow database used in this project consists of three tables: Customer Churn, Service Type, and Bundle, with a total of 41,244 rows of data. Additionally, a Customer Churn Measures table was created using DAX measures to analyze key metrics.
 
 ![Relationships PWC 1](https://github.com/user-attachments/assets/8c0132a4-f104-4350-8eb9-347eec43f063)
 
