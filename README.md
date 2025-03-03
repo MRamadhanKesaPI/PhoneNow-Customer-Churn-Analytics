@@ -101,17 +101,27 @@ This model predicts customer churn using logistic regression, focusing on contra
 
 ## Recommendations
 
-#### 1. Improve Retention for Month-to-Month Customers:
-- Offer discounts, loyalty rewards, or upgrade incentives to encourage customers to switch to longer-term contracts. This could help reduce the high churn rate in this segment.
+By leveraging churn risk scores, we can take targeted actions to engage high-risk customers before they decide to leave. The following recommendations aim to enhance customer experience, strengthen loyalty, and reduce churn effectively.
+
+#### 1. Keep High-Risk Month-to-Month Customers Loyal (Contract-Based Approach):
+- Offer special discounts, rewards, or contract upgrade deals to high-risk customers on month-to-month plans.
+- Proactively reach out before their renewal date with retention-focused offers.
   
-#### 2. Strengthen Early Customer Engagement: 
-- Since over half of churned customers left in the last month were in their first year, focus on onboarding improvements, proactive customer check-ins, and personalized offers within the first 12 months.
+#### 2. Engage and Support New Customers Early (Tenure-Based Approach): 
+- Provide enhanced onboarding, regular check-ins, and personalized offers to high-risk customers in their first 12 months.
+- Implement an automated system to alert the customer success team when a high-risk customer shows signs of leaving.
 
-#### 3. Investigate Phone Service and Fiber Optic Service Issues:
-- Analyze customer complaints and gather feedback to understand why these services have higher churn. Consider improving service quality or offering better pricing plans.
+#### 3. Improve Plans and Pricing for High-Churn Services (Service-Based Approach):
+- Offer better pricing or service bundles for customers with high churn risk in fiber optic, streaming TV, streaming movies, multiple lines, and phone service.
+- Investigate service-related complaints and create retention campaigns, such as loyalty perks or premium support.
 
-#### 4. Enhance Technical Support Response Times:
-- Technical issues might be the primary churn factor, faster and more efficient tech support could prevent some customers from leaving.
+#### 4. Proactive Tech Support for High-Risk Customers (Technical Issue Approach):
+- Prioritize high-risk customers for faster tech support to prevent frustration.
+- Provide premium support options, like priority response times, for customers frequently facing technical issues.
+
+#### 5. Adjust Monthly Charges for High-Risk Customers (Price Sensitivity Approach):
+- Offer personalized discounts or loyalty rewards to high-risk customers with high monthly bills.
+- Consider flexible payment plans or retention-focused pricing strategies to keep price-sensitive customers engaged.
 
 ---
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
