@@ -6,7 +6,8 @@
 - [**Project Background**](#project-background)
 - [**Project Assets**](#project-assets)
 - [**Data Structure**](#data-structure)
-- [**Insights**](#insights)
+- [**Insights (Power BI)**](#insights-power-bi)
+- [**Predictive Insights (Logistic Regression - Python)**](#predictive-insights-logistic-regression---python)
 - [**Recommendations**](#recommendations)
 
 
@@ -43,7 +44,7 @@ The PhoneNow database used in this project consists of three tables: Customer Ch
 
 These final datasets were created through the process of creating view ini PostgreSQL, which can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Processes_for_PhoneNow...Customer-Churn/).
 
-## Insights
+## Insights (Power BI)
 
 #### 1. Churn Rate is High at 26.54%:
 -  Over the last month, **one in four customers** have left PhoneNow, highlighting a significant churn issue. This rate suggests that **customer retention strategies need to be strengthened** to reduce further losses.
@@ -69,6 +70,22 @@ Below is an overview from the Power BI dashboard. A Power BI dashboard can be do
 ![Image](https://github.com/user-attachments/assets/3896a84c-4751-4981-b34d-11a75aa839c8)
 ![Image](https://github.com/user-attachments/assets/f5aa70c1-b3b1-4d08-ac14-0e3983c74a02)
 ---
+
+## Predictive Insights (Logistic Regression - Python)
+
+#### 1. Strong Churn Detection (AUC-ROC: 0.92):
+-  With an **AUC-ROC score of 0.92**, the model effectively distinguishes between churners and non-churners, ensuring reliable predictions.
+    
+#### 2. Model Predicts Churn with 80% Accuracy:
+-  The model correctly classifies customers **80% of the time**, making it a solid predictive tool.
+
+#### 3. High Recall for Churners (91%):
+-  The model correctly identifies **91% of actual churners**, ensuring at-risk customers are flagged, though it may misclassify some loyal customers.
+
+#### 4. 23.02% of Customers Are at Risk:
+-  Out of **5,174 active customers**, **1,191 are flagged as potential churners**, reinforcing the high churn risk.
+
+
 ## Recommendations
 
 #### 1. Improve Retention for Month-to-Month Customers:
