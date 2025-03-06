@@ -70,7 +70,7 @@ This indicates that early customer experience plays a crucial role in retention,
 Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/19104233/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 
-
+![PhoneNow Churn 21](https://github.com/user-attachments/assets/dfa2450a-7b30-4185-9324-cc7ab4005308)
 ![PhoneNow Churn 22](https://github.com/user-attachments/assets/9df53be5-a626-4f88-94a2-5a769f89e8ac)
 ---
 
