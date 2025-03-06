@@ -33,7 +33,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The DAX measures to support data analysis can be found [here](https://mramadhankesapi.github.io/DAX-Processes__for__PhoneNow...Customer-Churn/).
   
-- The Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/19042483/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
+- The Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/19104233/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 - The Python notebook for the Logistic Regression model can be found [here](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn%20Prediction.ipynb).
 
@@ -67,11 +67,11 @@ This indicates that early customer experience plays a crucial role in retention,
 -  **69.38%** of churned customers **had tech support tickets before leaving**. This means PhoneNow got a serious issues with tech.
 
 ---
-Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/19042483/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
+Below is an overview from the Power BI dashboard. A Power BI dashboard can be downloaded here: [PhoneNow Customer Churn.pdf](https://github.com/user-attachments/files/19104233/PhoneNow.Customer.Churn.pdf) or [PhoneNow Customer Churn.pbix](https://github.com/MRamadhanKesaPI/PhoneNow-Customer-Churn-Analytics/blob/main/PhoneNow%20Customer%20Churn.pbix)
 
 
-![Image](https://github.com/user-attachments/assets/3896a84c-4751-4981-b34d-11a75aa839c8)
-![Image](https://github.com/user-attachments/assets/f5aa70c1-b3b1-4d08-ac14-0e3983c74a02)
+
+![PhoneNow Churn 22](https://github.com/user-attachments/assets/9df53be5-a626-4f88-94a2-5a769f89e8ac)
 ---
 
 ## Predictive Insights (Logistic Regression - Python)
